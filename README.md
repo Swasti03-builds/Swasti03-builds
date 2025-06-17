@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there! I'm Swasti
 
-<!--
-**Swasti03-builds/Swasti03-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a B.Tech CSE student from JIIT 62 Noida , passionate about learning and building cool tech projects.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Learning
+- C++ & Object-Oriented Programming  
+- Web Development (HTML, CSS, JavaScript)  
+- Git & GitHub for version control  
+- Basics of Data Structures and Algorithms (getting there!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects I'm Working On
+- 🎯 **Mall Management System** in C++ – terminal-based simulation with navigation, billing, and lift system  
+- 🌐 Personal Portfolio Website – under construction!
+
+## 📚 What I'm Exploring Next
+- JavaScript frameworks like React  
+- Open-source contributions  
+- Competitive Programming (step-by-step!)
+
+## 📫 Let's Connect!
+- 🌍 [LinkedIn](www.linkedin.com/in/swasti-garg-83a2102b7) 
+- 📩 Reach me at: swasti.garg03@gmail.com 
+
+---
+
+> *“The expert in anything was once a beginner.” – Helen Hayes*
+
+Thanks for visiting my profile! 😊
+
