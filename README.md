@@ -18,7 +18,7 @@
 - Competitive Programming (step-by-step!)
 
 ## 📫 Let's Connect!
-- 🌍 [LinkedIn](www.linkedin.com/in/swasti-garg-83a2102b7) 
+- 🌍 [LinkedIn](https://www.linkedin.com/in/swasti-garg-83a2102b7/) 
 - 📩 Reach me at: swasti.garg03@gmail.com 
 
 ---
